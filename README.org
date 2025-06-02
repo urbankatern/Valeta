@@ -1,0 +1,183 @@
+#+TITLE: Valeta
+#+DESCRIPTION: Scenarij za valeto z dodatki
+#+AUTHOR: Urban Katern
+#+STARTUP: showeverything
+#+OPTIONS: toc:2
+
+* Table of Contents :toc:
+- [[#todo][TODO]]
+- [[#zacetek][Zacetek]]
+  - [[#prihod-na-oder][Prihod na oder]]
+- [[#1-akt-uvod][1. Akt: Uvod]]
+  - [[#ples-valcek][Ples: Valcek]]
+- [[#2-akt-covid][2. Akt: Covid]]
+  - [[#skec-covid-19][Skec: Covid-19]]
+- [[#3-akt-kombiniran-ples][3. Akt: Kombiniran ples]]
+  - [[#ples-fokstrot-in-sving][Ples: Fokstrot in sving]]
+- [[#4-akt-razrednicarke][4. Akt: Razrednicarke]]
+  - [[#tocka-razrednicark][Tocka razrednicark]]
+- [[#5-akt-travma][5. Akt: Travma]]
+- [[#6-akt-ansambelska-igra-in-anja][6. Akt: Ansambelska igra in Anja]]
+  - [[#ansambelska-igra-in-anja][Ansambelska igra in Anja]]
+- [[#7-akt-korencek-in-podelitev][7. Akt: Korencek in podelitev]]
+  - [[#govor-ravnateljice-in-podelitev][Govor ravnateljice in podelitev]]
+  - [[#zahvala-starsem][Zahvala starsem]]
+- [[#8-akt-zahvala-in-cigumiji][8. Akt: Zahvala in cigumiji]]
+  - [[#skec---cigumiji][Skec - Cigumiji]]
+  - [[#zahvala-nam-in-uciteljem][Zahvala nam in uciteljem]]
+- [[#9-akt-karaoke][9. Akt: Karaoke]]
+  - [[#petje][Petje]]
+
+* TODO
+Glasba za odzadje vsakic od zacetka?
+
+* Zacetek
++ Nastopajoci: Marusa, Tjasa
++ 1x Mikrofon - brezzicni
+
+*Tjasa in Marusa:* Dobrodosli na valeti generacije 2010, naj vam predstaviva letosnje devetosolke in devetosolce.
+
+** Prihod na oder
++ Glasba: Bethownova 5. simfonija
+Napovedovanje parov, naslednji napovedan po prihodu prejsnjega.
+
+* 1. Akt: Uvod
++ Nastopajoci: Ela, Jonas, Sara, Neva
++ 2x Mikrofon - brezzicni
++ 1x Mikrofon - kondenzatorski: klavir
++ Zatemnitev
++ Video - Prosti cas
++ Glasba za valcek
++ Glasba v ozadju
+
+*** Ela in Jonas
+
+*Ela:* Dragi starsi, zaposleni nase sole in vsi ostal gledalci, dobrodosli na nasi valeti.
+*Jonas:* Kot ste verjetno ze opazili, je danes petek trinajsti, ki naj bi veljal za nesrecen dan, vendar ne za nas, saj ranvo danes zakljucujemo osnovno solo.
+*Ela:* Nasa zgodba se je zacela 1. septembra leta 2016, ko smo prvic vstopili v ucilnico prvega razreda.
+*Jonas:* Ceprav smo imeli veliko solskega dela, smo vedno nasli cas za popoldanske dejavnosti.
+
+1. *Video*
+
+** Ples: Valcek
+
+*** Sara in Neva
+
+*Sara:* Poleg tega, da nekatere punce v popoldanskem casu plesemo Hip Hop - 
+*Neva:* - smo se tudi v soli ucili ples... eden od teh je bil angleski valcek.
+*Sara:* Po plesu pa vam bosta Tristan in Ula zaigrala - stirirocno na klavir - Romanca
+
+1. Pari se razporedijo za ples **Ozadje**
+2. *Valcek*
+3. Pari se priklonijo in odidejo na svoja mesta **Ozadje**
+4. *Tristan in Ula klavir*
+
+* 2. Akt: Covid
++ Nastopajoci: Lena, Masa, Vita, Ula, Brina, Jonas, Tristan
++ 2x Mikrofon - brezzicni
++ TODO: 2x mizi - veliki, 4x stoli, covid testi, maske
+
+*** Masa in Lena
+*Masa:* Ker smo tako nesrecna generacija, se nam je zgodila tudi grozna epidemija covida-19. Za nas je bila to prava nocna mora, saj se nismo mogli druziti.
+*Lena:* Bila pa je tudi odlicna priloznost za lenarjenje, igranje igric, gledanje filmov in uporabe elektronskih naprav med poukom.l
+*Masa:* Na oder vabiva Vito, Ulo, Brino, Jonasa, Tristana in Anjo, ki vam bodo uprizorili testiranje v Soli
+
+** Skec: Covid-19
+1. *Prinesejo se pripomocki*
+2. *Pokazejo, kako so se po karanteni v soli testirali.*
+3. *Pospravijo se pripomocki*
+
+* 3. Akt: Kombiniran ples
++ Nastopajoci: Masa in Lena
++ 2x Mikrofon - brezzicni
++ Glasba za ples: Firestone
+
+** Ples: Fokstrot in sving
+*** Masa in Lena 
+*Lena:* Ker smo velikokrat neodlocni, smo se odlocili, da zdruzimo dva plesa - 
+*Masa:* - in sicer fokstrot in sving.
+
+1. Pari se razporedijo v vrsto za ples. **Odzadje**
+2. *Ples*
+3. Pari se priklonijo in odidejo na svoja mesta. **Odzadje**
+
+* 4. Akt: Razrednicarke
++ 2x Mikrofoni - brezzicni
++ Nastopajoci: Brina, Vita, Tjasa, Marusa
+
+** Tocka razrednicark
+
+*** Brina in Vita
+*Brina:* Sedaj pa na oder vabimo nasi razrednicarki, ki sta nas spremljali in podpirali od nasega sestega razreda.
+*Vita:* Prosim en velik aplavz za Tjaso Prudic in Maruso Nared
+
+*TODO: Tocka razrednicark*
+
+* 5. Akt: Travma
++ TODO: Napoved? Pripomocki?
++ Nastopajoci: Erika, Mila, Zana, David, Gaber
++ TODO: Mikrofoni
+
+*** Erika, Mila, Zana, David, Gaber
+*Erika:* Danes smo se zbrali, da skupaj premagamo nase travme. Bi kdo rad kaj delil? Naj vas ne bo strah.
+*Mila:* Moja najhujsa travma je zagotovo sportni karton.
+*Zana:* O ja, a se spomnis, ko smo morale punce dvakrat teci, ker ucitelj ni meril casa.
+*Mila:* Jaaa, tisto je bilo grozno!
+*Erika:* Moja najhujsa travna je zdravniski pregled.
+*David:* Ja, meni je enkrat zdravnik rekel, da se drzim kot skuhana hrenovka.
+*Zana:* Moja najhujsa travma je potencialna energija pri fiziki.
+*Gaber:* Ne pozabi na kineticno!
+*David:* Moja najhujsa travma pa so... ure matematike.
+
+* 6. Akt: Ansambelska igra in Anja
++ Nastopajoci: Vita, Ansambel, Anja
++ 1x mikrofon - dinamicni
++ 2x mikrofon - kondenzatorski
++ Glasba: Stand by me
+*** Vita
+*Vita:* Ko nas je grabila panika, smo upali na dobro vilo, ki bo resila vse nase tezave. Na sreco so nam stali ob strani nasi starsi in ucitlji ter nam pomagali prebroditi kriticna obdobja. (Na oder vabim clane ansambelske igre, z Dobro vilo, nato pa se Anjo Debevec s solo tocko Stand by me.)
+
+** Ansambelska igra in Anja
+TODO: Premikanje instrumentov?
+1. *Ansambelska igra - Dobra vila*
+2. *Anja Debevec - Stand by me*
+
+* 7. Akt: Korencek in podelitev
++ Nastopajoci: Brina, Korencek, Tjasa, Marusa
++ 1x Mikrofon - Dinamicni
++ TODO: Sopek? Zahvale? Odzadje?
+
+Zahvala ravnateljici, starsem, podelitev.
+
+*** Brina
+*Brina:* Na oder vabim gospo ravnateljico, magistrico Anito Knez, ki se ji ob tej priloznosti iskreno zahvaljujemo za vse dane priloznosti, trud in podporo v casu nasega solanja.
+
+** Govor ravnateljice in podelitev
+Ravnateljica na oder povabi razrednicarki, da skupaj podelijo spricevala in priznanja
+
+** Zahvala starsem
+*** TODO Lana in Zala
+
+1. *Ucenci nesejo roze starsem.* **Odzadje**
+
+* TODO 8. Akt: Zahvala in cigumiji
++ Nastopajoci: Zala, Bine, Tim, Rok, Neva
++ 2x Mikrofon - dinamicni
+
+** TODO Skec - Cigumiji
+
+** Zahvala nam in uciteljem
+
+* 9. Akt: Karaoke
++ Nastopajoci: Sara, Neva, Vita, Masa
++ 2x Mikrofon - brezzicni
++ 2x Mikrofon - dinamicni
++ Glasba - Ne bodi kot drugi
+
+*** Sara in Neva
+*Sara:* Kot smo ze dokazali, imamo v razredu veliko nadarjenih ljudi, med njimi sta tudi Vita in Masa.
+*Neva:* S pesmijo nam bosta povedali, da nam ni potrebno biti kot drugi, ampak da je najpomembneje, da smo to kar smo.
+*Sara:* Prisluhnimo, kako se nam bosta predstavili s pesmijo - 
+*Neva:* - Ne bodi kot drugi
+
+** Petje
