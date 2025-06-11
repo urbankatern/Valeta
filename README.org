@@ -135,15 +135,15 @@ Napovedovanje parov, naslednji napovedan po prihodu prejsnjega.
 + 1-2x Mikrofoni - brezzicni
 
 *** Erika, Mila, Zana, David, Gaber
-*Erika:* Danes smo se zbrali, da skupaj delimo nase osnovnosolske travme. Bi kdo rad kaj delil? Naj vas ne bo strah.
-*Mila:* Moja najhujsa travma je zagotovo sportni karton.
-*Zana:* O ja, a se spomnis, ko smo morale punce dvakrat tec na 600m, ker ucitelj stopal.
-*Mila:* Jaaa, tisto je bilo grozno! Se posebej, ker so bili v drugo slabsi rezultati.
-*Erika:* Moja najhujsa travna je zdravniski pregled.
-*David:* Ja, meni je enkrat zdravnik rekel, da se drzim kot skuhana hrenovka.
-*Zana:* Moja najhujsa travma je potencialna energija pri fiziki.
-*Gaber:* Ne pozabi na kineticno! Pa veste kaj? Moja najhujsa travma pa je likovna, ker ce pa kaj nisem, pa nisem ustvarjalen clovek.
-*David:* Moja najhujsa travma pa so... ure matematike, na katerih smo imeli vsak dan preverjanje znanja.
+- *Erika:* Danes smo se zbrali, da skupaj delimo nase osnovnosolske travme. Bi kdo rad kaj delil? Naj vas ne bo strah.
+- *Mila:* Moja najhujsa travma je zagotovo sportni karton.
+- *Zana:* O ja, a se spomnis, ko smo morale punce dvakrat tec na 600m, ker ucitelj stopal.
+- *Mila:* Jaaa, tisto je bilo grozno! Se posebej, ker so bili v drugo slabsi rezultati.
+- *Erika:* Moja najhujsa travna je zdravniski pregled.
+- *David:* Ja, meni je enkrat zdravnik rekel, da se drzim kot skuhana hrenovka.
+- *Zana:* Moja najhujsa travma je potencialna energija pri fiziki.
+- *Gaber:* Ne pozabi na kineticno! Pa veste kaj? Moja najhujsa travma pa je likovna, ker ce pa kaj nisem, pa nisem ustvarjalen clovek.
+- *David:* Moja najhujsa travma pa so... ure matematike, na katerih smo imeli vsak dan preverjanje znanja.
 
 * 6. Akt: Ansambelska igra in Anja
 + Nastopajoci: Vita, Ansambel, Anja
@@ -153,7 +153,7 @@ Napovedovanje parov, naslednji napovedan po prihodu prejsnjega.
 
 *** Vita
 
-*Vita:* Travme vsepovsod, naredili smo si jih se tam, kjer nam ne bi bilo treba. Ko nas je grabila panika, smo upali na dobro vilo, ki bo resila vse nase tezave. Na sreco so nam stali ob strani nase starsi in ucitelji ter nam pomagali prebroditi kriticna obdobja. Zato na oder vabimo clane ansambelske igre, da nam predstavijo naso Dobro vilo. Poten opa, dragi starsi, prisluhnite se Anji in pesmi Stand by me.
+- *Vita:* Travme vsepovsod, naredili smo si jih se tam, kjer nam ne bi bilo treba. Ko nas je grabila panika, smo upali na dobro vilo, ki bo resila vse nase tezave. Na sreco so nam stali ob strani nase starsi in ucitelji ter nam pomagali prebroditi kriticna obdobja. Zato na oder vabimo clane ansambelske igre, da nam predstavijo naso Dobro vilo. Poten opa, dragi starsi, prisluhnite se Anji in pesmi Stand by me.
 
 ** Ansambelska igra in Anja
 1. *Ansambelska igra - Dobra vila*
@@ -166,12 +166,12 @@ Napovedovanje parov, naslednji napovedan po prihodu prejsnjega.
 ** Zahvala ravnateljici
 
 *** Brina
-*Brina:* Na oder vabim gospo ravnateljico, magistrico Anito Knez, ki se ji ob tej priloznosti iskreno zahvalimo za vse dane priloznosti, trud in podporo v casu nasega solanja.
+- *Brina:* Na oder vabim gospo ravnateljico, magistrico Anito Knez, ki se ji ob tej priloznosti iskreno zahvalimo za vse dane priloznosti, trud in podporo v casu nasega solanja.
 
 1. *Pride ravnateljica*
 2. *Vita prinese mikrofon ravnateljici*
 
-*Brina:* Spostovana gospa ravnateljica! Spremljali ste nas celih devet let, nam stali ob strani, podpirali projekte in skrbeli za ugled sole. Vedno ste poskrbelim da smo se na soli imeli lepo, nas tudi kam peljali in vcasih malo okregali, kadar je bilo to potrebno. Iz srca bi se vam radi se posebej zahvalili, da ste z nami izpeljali zmenjavo s Francijo, ki bo vedno imela posebno mesto v nasih srcih. Torej, se enkrat iskrena hvala za vse. Seveda pa nam bodo v spominu ostali vasi ikonicni oranzni lasje in upamo, da se nase poti se kdaj prekrizajo. Hvala vam!
+- *Brina:* Spostovana gospa ravnateljica! Spremljali ste nas celih devet let, nam stali ob strani, podpirali projekte in skrbeli za ugled sole. Vedno ste poskrbelim da smo se na soli imeli lepo, nas tudi kam peljali in vcasih malo okregali, kadar je bilo to potrebno. Iz srca bi se vam radi se posebej zahvalili, da ste z nami izpeljali zmenjavo s Francijo, ki bo vedno imela posebno mesto v nasih srcih. Torej, se enkrat iskrena hvala za vse. Seveda pa nam bodo v spominu ostali vasi ikonicni oranzni lasje in upamo, da se nase poti se kdaj prekrizajo. Hvala vam!
 
 3. *Gaber prinese sopek, mogoc se ga odnese*
 ** Govor ravnateljice in podelitev
@@ -182,16 +182,16 @@ Napovedovanje parov, naslednji napovedan po prihodu prejsnjega.
 ** Zahvala starsem
 *** Lana in Zala
 
-*Zala:* Dragi starsi, ko danes stojimo tukaj, na koncu osnovnosolske poti, bi se vam radi iskreno zahvalili v imenu vseh nas devetosolcev. Hvala vam, da ste bili z nami vseh devet let, vcasih kot ucitelji, vcasih kot tisti, ki ste nas potolazili, pogosto pa tudi kot kuharji, motivatorji in nasi najvecji navijaci. Brez vas bi bila marsikatera stvar tezja, mogoce celo nemogoca.
-*Lana:* Zavedamo pa se, da ni bilo vedno lahko z nami, z domacimi nadlogami, s prepirom okoli ocen ali zjutraj, ko se nam ni dalo vstati, se posebej, ko smo bili majhni. A vseeno ste bili tam z nami potrpezljivi, vztrajni in predvsem vedno na nasi strani.
-*Zala:* Zdaj, ko stopamo na novo pot, se zavedamo, da smo prav zaradi vas tudi danes tukaj malo bolj odrasli, malo bolj pogumni in veliko bolj hvalezni.
-*Lana:* Zato se enkrat iskrena hvala za vso podporo, razumevanje, ljubezen in da ste nas z veseljem peljali na informativne dneve in nam pomagali pri izbiri srednjih sol, saj brez vas ne bi bili to, kar smo danes. Radi vas imamo!
+- *Zala:* Dragi starsi, ko danes stojimo tukaj, na koncu osnovnosolske poti, bi se vam radi iskreno zahvalili v imenu vseh nas devetosolcev. Hvala vam, da ste bili z nami vseh devet let, vcasih kot ucitelji, vcasih kot tisti, ki ste nas potolazili, pogosto pa tudi kot kuharji, motivatorji in nasi najvecji navijaci. Brez vas bi bila marsikatera stvar tezja, mogoce celo nemogoca.
+- *Lana:* Zavedamo pa se, da ni bilo vedno lahko z nami, z domacimi nadlogami, s prepirom okoli ocen ali zjutraj, ko se nam ni dalo vstati, se posebej, ko smo bili majhni. A vseeno ste bili tam z nami potrpezljivi, vztrajni in predvsem vedno na nasi strani.
+- *Zala:* Zdaj, ko stopamo na novo pot, se zavedamo, da smo prav zaradi vas tudi danes tukaj malo bolj odrasli, malo bolj pogumni in veliko bolj hvalezni.
+- *Lana:* Zato se enkrat iskrena hvala za vso podporo, razumevanje, ljubezen in da ste nas z veseljem peljali na informativne dneve in nam pomagali pri izbiri srednjih sol, saj brez vas ne bi bili to, kar smo danes. Radi vas imamo!
 
 *** Marusa in Tjasa
 
-*Marusa:* Dragi starsi, mladost je norost, cez potok skace, kjer je most.
-*Tjasa:* Biti mlad je najpomembnejsa in radostna izkusnja. Vecina izmed nas se radi spominjamo mladostniskih dni, brezskrbnosti, vragolij, zamolcanih neumnosti... In pomembno je, da to dozivimo in pomembno je, da imajo mladi ob sebi pomembne odrasle, VAS, dragi starsi, ki z zgledom kazete, kako preskociti potok tako, da ohranis sebe in spostujes ostale.
-*Marusa:* Hvala vam, da ste nama zaupali, da ste se odzvali na najino zeljo po skupnem sodelovanju, vodenju in usmerjanju vasih otrok, nasih ucencev ter naju podprli, ko sva potrebovali vaso podporo za lazje delo. Zeliva, da boste s ponosom spremljali vase hcerke in sinove, da jih boste vedno sprejeli odprtih rok in nasmejanih obrazov. Saj veste, kaj je prav in kaj ne, bodo pa morali spoznati sami.
+- *Marusa:* Dragi starsi, mladost je norost, cez potok skace, kjer je most.
+- *Tjasa:* Biti mlad je najpomembnejsa in radostna izkusnja. Vecina izmed nas se radi spominjamo mladostniskih dni, brezskrbnosti, vragolij, zamolcanih neumnosti... In pomembno je, da to dozivimo in pomembno je, da imajo mladi ob sebi pomembne odrasle, VAS, dragi starsi, ki z zgledom kazete, kako preskociti potok tako, da ohranis sebe in spostujes ostale.
+- *Marusa:* Hvala vam, da ste nama zaupali, da ste se odzvali na najino zeljo po skupnem sodelovanju, vodenju in usmerjanju vasih otrok, nasih ucencev ter naju podprli, ko sva potrebovali vaso podporo za lazje delo. Zeliva, da boste s ponosom spremljali vase hcerke in sinove, da jih boste vedno sprejeli odprtih rok in nasmejanih obrazov. Saj veste, kaj je prav in kaj ne, bodo pa morali spoznati sami.
 
 1. *Ucenci nesejo roze starsem.* **Ozadje**
 
@@ -203,23 +203,23 @@ Napovedovanje parov, naslednji napovedan po prihodu prejsnjega.
 ** Skec - Cigumiji
 1. *Vseh 6 nastopajocih pride in se usedejo. Najprej Rok in Analea, nato Tim in Bine ter Neva in Lara, zadnja stoji Zala in pocaka.*
 
-*Tim:* A bo kdo cigumi?
+- *Tim:* A bo kdo cigumi?
 
 2. *Vsi ucenci se stegujejo proti njemi un sprosijo za cigumi.*
 
-*Analea:* Pazi, uciteljica gre.
+i *Analea:* Pazi, uciteljica gre.
 
 3. *Pride Zala*
 
-*Zala:* Dober dan ucenci. Lahko se usedete. Ker smo ravno pred ocenjevanjem, bomo danes utrjevali snov.
+- *Zala:* Dober dan ucenci. Lahko se usedete. Ker smo ravno pred ocenjevanjem, bomo danes utrjevali snov.
 
 4. *Pogleda proti Nevi*
 
-*Zala:* Neva, mas ti slucajno cigumi v ustih?
-*Neva:* Ne, bombon za grlo mam.
-*Zala:* Pa ti Nik?
-*Nik:* Ne, nimam.
-*Zala:* Pa ostali? Odnesite, prosim, cigumije ven.
+- *Zala:* Neva, mas ti slucajno cigumi v ustih?
+- *Neva:* Ne, bombon za grlo mam.
+- *Zala:* Pa ti Nik?
+- *Nik:* Ne, nimam.
+- *Zala:* Pa ostali? Odnesite, prosim, cigumije ven.
 
 5. *Odnesejo cigumije, grejo po vedra z rozicami. Peter, Lovro, Anej odnesejo stole.*
 
@@ -227,13 +227,13 @@ Napovedovanje parov, naslednji napovedan po prihodu prejsnjega.
 
 *** Sara in Erika
 
-*Sara:* Dragi ucitelji, razrednicarke od 1. do 9. razreda in vsi ostali zaposleni na soli, HVALA ker ste za nas skrbeli 9 let in bili z nami izjemno potrpezljivi.
-*Erika:* Hvala vsem, ki ste poskrbeli, da je bila sola, v katero smo prihajali, cista in urejena, organizirana, nasi nenehno lacni zelodcki pa vedno polni.
-*Sara:* Hvala vam, ucitelji, da ste nas vodili in usmerjali, ponudili nesteto priloznosti za pridobivanje znanja, nam pomagali resevati konflikte in nam pomagali takrat, ko smo to najbolj potrebovali.
-*Erika:* Zavedamo se, da nismo bili vedno sodelovalni, da smo se vcasih izmikali dogovorom, bili nekajkrat preglasni, tudi nemotivirani za delo. Vemo, da smo bili trd oreh.
-*Sara:* Zato smo vam se posebej hvalezni, za ves trud, ki ste ga vlozili v nas, da se danes lahko s ponosom poslavljamo drug od drugega.
-*Erika:* In za konec vam izrekamo se en velik...
-*Obe:* ...HVALA!
+- *Sara:* Dragi ucitelji, razrednicarke od 1. do 9. razreda in vsi ostali zaposleni na soli, HVALA ker ste za nas skrbeli 9 let in bili z nami izjemno potrpezljivi.
+- *Erika:* Hvala vsem, ki ste poskrbeli, da je bila sola, v katero smo prihajali, cista in urejena, organizirana, nasi nenehno lacni zelodcki pa vedno polni.
+- *Sara:* Hvala vam, ucitelji, da ste nas vodili in usmerjali, ponudili nesteto priloznosti za pridobivanje znanja, nam pomagali resevati konflikte in nam pomagali takrat, ko smo to najbolj potrebovali.
+- *Erika:* Zavedamo se, da nismo bili vedno sodelovalni, da smo se vcasih izmikali dogovorom, bili nekajkrat preglasni, tudi nemotivirani za delo. Vemo, da smo bili trd oreh.
+- *Sara:* Zato smo vam se posebej hvalezni, za ves trud, ki ste ga vlozili v nas, da se danes lahko s ponosom poslavljamo drug od drugega.
+- *Erika:* In za konec vam izrekamo se en velik...
+- *Obe:* ...HVALA!
 
 1. *Rozceeeeeeeee!*
 
@@ -246,10 +246,10 @@ Napovedovanje parov, naslednji napovedan po prihodu prejsnjega.
 ** Petje
 
 *** Sara in Neva
-*Sara:* Kot smo ze dokazali, imamo v razredu veliko nadarjenih ljudi, med njimi sta tudi Vita in Masa.
-*Neva:* S pesmijo nam bosta povedali, da nam ni potrebno biti kot drugi, ampak da je najpomembneje, da smo to kar smo.
-*Sara:* Prisluhnimo, kako se nam bosta predstavili s pesmijo... 
-*Neva:* ...Ne bodi kot drugi
+- *Sara:* Kot smo ze dokazali, imamo v razredu veliko nadarjenih ljudi, med njimi sta tudi Vita in Masa.
+- *Neva:* S pesmijo nam bosta povedali, da nam ni potrebno biti kot drugi, ampak da je najpomembneje, da smo to kar smo.
+- *Sara:* Prisluhnimo, kako se nam bosta predstavili s pesmijo... 
+- *Neva:* ...Ne bodi kot drugi
 
 1. *Masa in Vita*
 
@@ -261,11 +261,11 @@ Napovedovanje parov, naslednji napovedan po prihodu prejsnjega.
 ** Ples v krogu
 
 *** Gaber in Nik V.
-*Gaber:* Tako... Zdaj pa prihaja trenutek, ki smo ga vsi cakali.
-*Nik:* To je ples, za katerega smo se trudili, vadili, spotikali in smejali.
-*Gaber:* Tretji ples vecera je prav poseben - ker smo ga nasli mi, devetarji.
-*Nik:* To bo nas trenutek, da pokazemo, da znamo vec kot samo dvigovat roko pri geografiji.
-*Gaber:* In ce nam slucajno kak korak spodleti - nic hudega. Vazno je, da plesemo s srcem... in nasmehom!
+- *Gaber:* Tako... Zdaj pa prihaja trenutek, ki smo ga vsi cakali.
+- *Nik:* To je ples, za katerega smo se trudili, vadili, spotikali in smejali.
+- *Gaber:* Tretji ples vecera je prav poseben - ker smo ga nasli mi, devetarji.
+- *Nik:* To bo nas trenutek, da pokazemo, da znamo vec kot samo dvigovat roko pri geografiji.
+- *Gaber:* In ce nam slucajno kak korak spodleti - nic hudega. Vazno je, da plesemo s srcem... in nasmehom!
 
 1. *Ples*
 2. *Ucenci ostanejo v krogih, Gaber in Nik V. izstopita.*
@@ -276,16 +276,16 @@ Napovedovanje parov, naslednji napovedan po prihodu prejsnjega.
 
 *** Gaber in Nik
 
-*Nik:* Dragi starsi, ucitelji, prijatelji.
-*Gaber:* Vsaka dobra stvar se prej ali slej konca. In tudi danes smo prisli do konca - do konca osnovne sole, do konca enega poglavja nasih zivljenj.
-*Nik:* Pa ceprav smo si vcasih zeleli, da bi se kak dan koncal cim prej - zdaj bi si zeleli, da bi nekatere trenutke lahko zavrteli se enkrat.
-*Gaber:* Devet let smo hodili po istih hodnikih, sedeli v istih klopeh, se jezili nad istimi testi in se veselili istih odmikov.
-*Nik:* Skupaj smo rastli. Skupaj se ucili. Skupaj znoreli. No, eni bolj, eni manj - ampak vsi po svoje.
-*Gaber:* Zato danes ne zakljucujemo samo solskega leta - zakljucujemo obdobje, ki nas je zaznamovalo.
-*Nik:* In ob tej priloznosti bi se radi zahvalili vsem uciteljem - ker ste imeli potrpljenje, vsem starsem - ker ste verjeli v nas, tudi ko mi nismo in vsem sosolcem - ker brez vas ne bi bilo teh nepozabnih let.
-*Gaber:* Hvala tudi vsem, ki ste nam pomagali pripraviti nase zadnje dejanje. Hvala uciteljici Petri, ki nam je pomagala pripraviti danasnjo sceno, hvala uciteljici Tanji za pevske vaje. Iskrena hvala Ljubu Vukelicu, ki je nase zadnje dejanje fotografiral in s tem poskrbel, da ne bo slo v pozabo. Velik hvala tudi bivsemu ucencu nase sole, Urbanu Katernu, ki je bil nas stage manager in je poskrbel, da je vse teklo gladko. HVALA!
-*Nik:* Pred nami je novo poglavje - srednja sola, novi izzivi, novi obrazi. A kamorkoli nas bo pot zanesla - delcek nas bo vedno ostal tu.
-*Gaber:* Hvala vsem, ker ste bili del nase zgodbe. Valeta se koncuje - a spomini ostajajo.
+- *Nik:* Dragi starsi, ucitelji, prijatelji.
+- *Gaber:* Vsaka dobra stvar se prej ali slej konca. In tudi danes smo prisli do konca - do konca osnovne sole, do konca enega poglavja nasih zivljenj.
+- *Nik:* Pa ceprav smo si vcasih zeleli, da bi se kak dan koncal cim prej - zdaj bi si zeleli, da bi nekatere trenutke lahko zavrteli se enkrat.
+- *Gaber:* Devet let smo hodili po istih hodnikih, sedeli v istih klopeh, se jezili nad istimi testi in se veselili istih odmikov.
+- *Nik:* Skupaj smo rastli. Skupaj se ucili. Skupaj znoreli. No, eni bolj, eni manj - ampak vsi po svoje.
+- *Gaber:* Zato danes ne zakljucujemo samo solskega leta - zakljucujemo obdobje, ki nas je zaznamovalo.
+- *Nik:* In ob tej priloznosti bi se radi zahvalili vsem uciteljem - ker ste imeli potrpljenje, vsem starsem - ker ste verjeli v nas, tudi ko mi nismo in vsem sosolcem - ker brez vas ne bi bilo teh nepozabnih let.
+- *Gaber:* Hvala tudi vsem, ki ste nam pomagali pripraviti nase zadnje dejanje. Hvala uciteljici Petri, ki nam je pomagala pripraviti danasnjo sceno, hvala uciteljici Tanji za pevske vaje. Iskrena hvala Ljubu Vukelicu, ki je nase zadnje dejanje fotografiral in s tem poskrbel, da ne bo slo v pozabo. Velik hvala tudi bivsemu ucencu nase sole, Urbanu Katernu, ki je bil nas stage manager in je poskrbel, da je vse teklo gladko. HVALA!
+- *Nik:* Pred nami je novo poglavje - srednja sola, novi izzivi, novi obrazi. A kamorkoli nas bo pot zanesla - delcek nas bo vedno ostal tu.
+- *Gaber:* Hvala vsem, ker ste bili del nase zgodbe. Valeta se koncuje - a spomini ostajajo.
 
 ** Skupno petje
 + Nastopajoci: Ucenci, Marusa, Tjasa, Lucija
