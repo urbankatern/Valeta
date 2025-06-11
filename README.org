@@ -112,7 +112,7 @@ Napovedovanje parov, naslednji napovedan po prihodu prejsnjega.
 - *Masa:* ...in sicer fokstrot in sving
 
 1. Pari se razporedijo v vrsto za ples. *Ozadje - Phantom*
-2. *Ples - Sway*
+2. *Ples - Sway(0.85)*
 3. Pari se priklonijo in odidejo na svoja mesta. *Ozadje - Overture*
 
 * 4. Akt: Razrednicarke
@@ -156,7 +156,7 @@ Napovedovanje parov, naslednji napovedan po prihodu prejsnjega.
 - *Vita:* Travme vsepovsod, naredili smo si jih se tam, kjer nam ne bi bilo treba. Ko nas je grabila panika, smo upali na dobro vilo, ki bo resila vse nase tezave. Na sreco so nam stali ob strani nase starsi in ucitelji ter nam pomagali prebroditi kriticna obdobja. Zato na oder vabimo clane ansambelske igre, da nam predstavijo naso Dobro vilo. Poten opa, dragi starsi, prisluhnite se Anji in pesmi Stand by me.
 
 ** Ansambelska igra in Anja
-1. *Ansambelska igra - Dobra vila*
+1. *Ansambelska igra - Dobra vila(brez podlage)*
 2. *Anja Debevec - Stand by me*
 
 * 7. Akt: Korencek in podelitev
@@ -251,7 +251,7 @@ i *Analea:* Pazi, uciteljica gre.
 - *Sara:* Prisluhnimo, kako se nam bosta predstavili s pesmijo... 
 - *Neva:* ...Ne bodi kot drugi
 
-1. *Masa in Vita*
+1. *Masa in Vita - Ne bodi kot drugi*
 
 * 10. Akt: Skupinski ples
 + Nastopajoci: Nik V., Gaber
@@ -267,7 +267,7 @@ i *Analea:* Pazi, uciteljica gre.
 - *Nik:* To bo nas trenutek, da pokazemo, da znamo vec kot samo dvigovat roko pri geografiji.
 - *Gaber:* In ce nam slucajno kak korak spodleti - nic hudega. Vazno je, da plesemo s srcem... in nasmehom!
 
-1. *Ples*
+1. *Ples - Belgijski ples*
 2. *Ucenci ostanejo v krogih, Gaber in Nik V. izstopita.*
 
 * 11. Akt: zakljucek
@@ -294,4 +294,4 @@ i *Analea:* Pazi, uciteljica gre.
 1. *Vsi na sredino odra*
 2. *Pojejo*
 3. *Se priklonijo, pomahajo in odidejo*
-4. *Zakljucek*
+4. *Zakljucek - Yellow*
