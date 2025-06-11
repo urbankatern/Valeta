@@ -70,11 +70,11 @@ Napovedovanje parov, naslednji napovedan po prihodu prejsnjega.
 
 *** Sara in Neva
 
-*Sara:* Neva, si videla kaksne talente vse skriva generacija 2010?
-*Neva:* Lahko bi rekli, da so sport, glasba in ples tiste aktivnosti, v katerih smo dobri in res uzivamo. Fantje so eno uro pred zacetkom pouka prisli v solo, da bi lahko igrali nogomet.
-*Sara:* No, punce se jim nismo pridruzile. Je pa PLES tista aktivnost, ki je letos ob zakljucku leta zdruzila vse. Pri urah sporta smo plesali vsi.
-*Neva:* Res je, naucili smo se razlicne plese, eden od teh je bil angleski valcek, ki vam ga bomo predstavili.
-*Sara:* Po plesu pa sledita glasbena talenta, Tristan in Ula, ki bosta stirirocno zaigrala na klavir, in sicer skladbo z naslovom Romanca.
+- *Sara:* Neva, si videla kaksne talente vse skriva generacija 2010?
+- *Neva:* Lahko bi rekli, da so sport, glasba in ples tiste aktivnosti, v katerih smo dobri in res uzivamo. Fantje so eno uro pred zacetkom pouka prisli v solo, da bi lahko igrali nogomet.
+- *Sara:* No, punce se jim nismo pridruzile. Je pa PLES tista aktivnost, ki je letos ob zakljucku leta zdruzila vse. Pri urah sporta smo plesali vsi.
+- *Neva:* Res je, naucili smo se razlicne plese, eden od teh je bil angleski valcek, ki vam ga bomo predstavili.
+- *Sara:* Po plesu pa sledita glasbena talenta, Tristan in Ula, ki bosta stirirocno zaigrala na klavir, in sicer skladbo z naslovom Romanca.
 
 1. Pari se razporedijo za ples *Ozadje - Overture*
 2. *Valcek - Firestone*
@@ -88,10 +88,10 @@ Napovedovanje parov, naslednji napovedan po prihodu prejsnjega.
 
 *** Masa in Lena
 
-*Masa:* Kot da bi vedeli, da bo nas zakljucek na petek 13., je grozna epidemija covida 19 prekinila nase druzenje, ples, glasbo in sport. Za nas je bila to prava nocna mora, saj se nismo mogli druziti.
-*Lena:* Nocna mora je bila tudi za ucitelje in starse, saj smo to priloznost izkoristili za lenarjenje, igranje igric, gledanje filmov in uporabljanje elektronskih naprav med poukom.
-*Masa:* Ko smo se na sreco enih in nesreco drugih koncno spet vrnili nazaj v solo... nas je cakalo testiranje.
-*Lena:* Pa ne testiranje znanja, temvec testiranje na dve crtici. Na oder vabiva VITO, ULO, BRINO, JONASA, TRISTANA in ANJO, ki nam bodo uprizorili testiranje v soli.
+- *Masa:* Kot da bi vedeli, da bo nas zakljucek na petek 13., je grozna epidemija covida 19 prekinila nase druzenje, ples, glasbo in sport. Za nas je bila to prava nocna mora, saj se nismo mogli druziti.
+- *Lena:* Nocna mora je bila tudi za ucitelje in starse, saj smo to priloznost izkoristili za lenarjenje, igranje igric, gledanje filmov in uporabljanje elektronskih naprav med poukom.
+- *Masa:* Ko smo se na sreco enih in nesreco drugih koncno spet vrnili nazaj v solo... nas je cakalo testiranje.
+- *Lena:* Pa ne testiranje znanja, temvec testiranje na dve crtici. Na oder vabiva VITO, ULO, BRINO, JONASA, TRISTANA in ANJO, ki nam bodo uprizorili testiranje v soli.
 
 ** Skec: Covid-19
 1. *Prinesejo se pripomocki*
@@ -106,10 +106,10 @@ Napovedovanje parov, naslednji napovedan po prihodu prejsnjega.
 ** Ples: Fokstrot in sving
 *** Masa in Lena 
 
-*Lena:* Solanje od doma, nato pa prihod v solo, testiranje, maske, drzanje medosebne razdalje, umivanje rok, karantene, druzenje po tocno dolocenem razporedu... ni bilo prijetno.
-*Masa:* Je bilo pa toliko bolje, ko smo se brez omejitev vrnili v solo. V sestem razredu smo odsli v letno solo v naravi, v 7. razredu na sportni CSOD Radenci, v 8. razredu pa na smucanje na Roglo. Sport je res nasa starst.
-*Lena:* Ponovno vam bomo zaplesali, ker pa smo velikokrat neodlocni, smo se odlocili, da zdruzimo dva plesa...
-*Masa:* ...in sicer fokstrot in sving
+- *Lena:* Solanje od doma, nato pa prihod v solo, testiranje, maske, drzanje medosebne razdalje, umivanje rok, karantene, druzenje po tocno dolocenem razporedu... ni bilo prijetno.
+- *Masa:* Je bilo pa toliko bolje, ko smo se brez omejitev vrnili v solo. V sestem razredu smo odsli v letno solo v naravi, v 7. razredu na sportni CSOD Radenci, v 8. razredu pa na smucanje na Roglo. Sport je res nasa starst.
+- *Lena:* Ponovno vam bomo zaplesali, ker pa smo velikokrat neodlocni, smo se odlocili, da zdruzimo dva plesa...
+- *Masa:* ...in sicer fokstrot in sving
 
 1. Pari se razporedijo v vrsto za ples. *Ozadje - Phantom*
 2. *Ples - Sway*
@@ -122,8 +122,8 @@ Napovedovanje parov, naslednji napovedan po prihodu prejsnjega.
 ** Tocka razrednicark
 
 *** Brina in Vita
-*Brina:* Sedaj pa na oder vabimo nasi razrednicarki, ki sta nas spremljali in podpirali od nasega sestega razreda, pa vse do danes.
-*Vita:* Prosim en velik aplavz za Tjaso Prudic in Maruso Nared.
+- *Brina:* Sedaj pa na oder vabimo nasi razrednicarki, ki sta nas spremljali in podpirali od nasega sestega razreda, pa vse do danes.
+- *Vita:* Prosim en velik aplavz za Tjaso Prudic in Maruso Nared.
 
 1. *Prihod razrednicark na oder*
 2. *Nastop - Za poredne otroke*
