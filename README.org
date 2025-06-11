@@ -47,22 +47,22 @@ Napovedovanje parov, naslednji napovedan po prihodu prejsnjega.
 *Napovedna glasba - 5. simfonija*
 
 * 1. Akt: Uvod
-+ Nastopajoci: Ela, Jonas, Sara, Neva
-+ 2x Mikrofon - brezzicni
-+ 1x Mikrofon - kondenzatorski: klavir
-+ Zatemnitev
-+ Video - Prosti cas
-+ Glasba za valcek
-+ Glasba v ozadju
+- Nastopajoci: Ela, Jonas, Sara, Neva
+- 2x Mikrofon - brezzicni
+- 1x Mikrofon - kondenzatorski: klavir
+- Zatemnitev
+- Video - Prosti cas
+- Glasba za valcek
+- Glasba v ozadju
 
 *** Ela in Jonas
 
-*Ela:* Dragi starsi, zaposleni nase sole in vsi ostal gledalci, dobrodosli na nasi valeti.
-*Jonas:* Kot ste verjetno ze opazili, je danes petek trinajsti, ki naj bi veljal za nesrecen dan, vendar ne za nas, saj ravno danes zakljucujemo osnovno solo. Hvala, ker ste bili tukaj z nami.
-*Ela:* Nasa zgodba se je zacela 1. septembra leta 2016, ko smo prvic vstopili v ucilnico prvega razreda. Nekateri na Uncu, drugi na Rakeku, spet tretji pa so se nam pridruzili kasneje.
-*Jonas:* V soli smo skupaj preziveli veliko casa, osvajali nova znanja tako v ucilnicah, kot zunaj njih. V prvi razred smo stopili majceni, nadobudni, mogoce jokajoci sestletniki, danes pa se bomo od vas poslovili z vsem znanjem tega sveta opremljeni najstniki.
-*Ela:* Ceprav smo imeli veliko solskega dela, smo vedno nasli cas za popoldanske dejavnosti. Radi bi vam pokazali, kdo smo tudi izven solskih klopi in s cim vse se ukvarjamo.
-*Jonas:* Pa si oglejmo, kaj vse pocnemo.
++ *Ela:* Dragi starsi, zaposleni nase sole in vsi ostal gledalci, dobrodosli na nasi valeti.
++ *Jonas:* Kot ste verjetno ze opazili, je danes petek trinajsti, ki naj bi veljal za nesrecen dan, vendar ne za nas, saj ravno danes zakljucujemo osnovno solo. Hvala, ker ste bili tukaj z nami.
++ *Ela:* Nasa zgodba se je zacela 1. septembra leta 2016, ko smo prvic vstopili v ucilnico prvega razreda. Nekateri na Uncu, drugi na Rakeku, spet tretji pa so se nam pridruzili kasneje.
++ *Jonas:* V soli smo skupaj preziveli veliko casa, osvajali nova znanja tako v ucilnicah, kot zunaj njih. V prvi razred smo stopili majceni, nadobudni, mogoce jokajoci sestletniki, danes pa se bomo od vas poslovili z vsem znanjem tega sveta opremljeni najstniki.
++ *Ela:* Ceprav smo imeli veliko solskega dela, smo vedno nasli cas za popoldanske dejavnosti. Radi bi vam pokazali, kdo smo tudi izven solskih klopi in s cim vse se ukvarjamo.
++ *Jonas:* Pa si oglejmo, kaj vse pocnemo.
 
 1. *Video*
 
