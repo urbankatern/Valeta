@@ -5,7 +5,6 @@
 #+OPTIONS: toc:2
 
 * Table of Contents :toc:
-- [[#todo][TODO]]
 - [[#zacetek][Zacetek]]
   - [[#prihod-na-oder][Prihod na oder]]
 - [[#1-akt-uvod][1. Akt: Uvod]]
@@ -20,26 +19,32 @@
 - [[#6-akt-ansambelska-igra-in-anja][6. Akt: Ansambelska igra in Anja]]
   - [[#ansambelska-igra-in-anja][Ansambelska igra in Anja]]
 - [[#7-akt-korencek-in-podelitev][7. Akt: Korencek in podelitev]]
+  - [[#zahvala-ravnateljici][Zahvala ravnateljici]]
   - [[#govor-ravnateljice-in-podelitev][Govor ravnateljice in podelitev]]
   - [[#zahvala-starsem][Zahvala starsem]]
 - [[#8-akt-zahvala-in-cigumiji][8. Akt: Zahvala in cigumiji]]
   - [[#skec---cigumiji][Skec - Cigumiji]]
-  - [[#zahvala-nam-in-uciteljem][Zahvala nam in uciteljem]]
+  - [[#zahvala-uciteljem][Zahvala uciteljem]]
 - [[#9-akt-karaoke][9. Akt: Karaoke]]
   - [[#petje][Petje]]
-
-* TODO
-Glasba za odzadje vsakic od zacetka?
+- [[#10-akt-skupinski-ples][10. Akt: Skupinski ples]]
+  - [[#ples-v-krogu][Ples v krogu]]
+- [[#11-akt-zakljucek][11. Akt: zakljucek]]
+  - [[#zahvale][Zahvale]]
+  - [[#skupno-petje][Skupno petje]]
 
 * Zacetek
 + Nastopajoci: Marusa, Tjasa
-+ 1x Mikrofon - brezzicni
-
-*Tjasa in Marusa:* Dobrodosli na valeti generacije 2010, naj vam predstaviva letosnje devetosolke in devetosolce.
++ 2x Mikrofon - brezzicni
 
 ** Prihod na oder
 + Glasba: Bethownova 5. simfonija
 Napovedovanje parov, naslednji napovedan po prihodu prejsnjega.
+
+*** Tjasa in Marusa
+
+*Tjasa in Marusa:* Dobrodosli na valeti generacije 2010, naj vam predstaviva letosnje devetosolke in devetosolce.
+*Napovedna glasba - 5. simfonija*
 
 * 1. Akt: Uvod
 + Nastopajoci: Ela, Jonas, Sara, Neva
@@ -53,9 +58,11 @@ Napovedovanje parov, naslednji napovedan po prihodu prejsnjega.
 *** Ela in Jonas
 
 *Ela:* Dragi starsi, zaposleni nase sole in vsi ostal gledalci, dobrodosli na nasi valeti.
-*Jonas:* Kot ste verjetno ze opazili, je danes petek trinajsti, ki naj bi veljal za nesrecen dan, vendar ne za nas, saj ranvo danes zakljucujemo osnovno solo.
-*Ela:* Nasa zgodba se je zacela 1. septembra leta 2016, ko smo prvic vstopili v ucilnico prvega razreda.
-*Jonas:* Ceprav smo imeli veliko solskega dela, smo vedno nasli cas za popoldanske dejavnosti.
+*Jonas:* Kot ste verjetno ze opazili, je danes petek trinajsti, ki naj bi veljal za nesrecen dan, vendar ne za nas, saj ravno danes zakljucujemo osnovno solo. Hvala, ker ste bili tukaj z nami.
+*Ela:* Nasa zgodba se je zacela 1. septembra leta 2016, ko smo prvic vstopili v ucilnico prvega razreda. Nekateri na Uncu, drugi na Rakeku, spet tretji pa so se nam pridruzili kasneje.
+*Jonas:* V soli smo skupaj preziveli veliko casa, osvajali nova znanja tako v ucilnicah, kot zunaj njih. V prvi razred smo stopili majceni, nadobudni, mogoce jokajoci sestletniki, danes pa se bomo od vas poslovili z vsem znanjem tega sveta opremljeni najstniki.
+*Ela:* Ceprav smo imeli veliko solskega dela, smo vedno nasli cas za popoldanske dejavnosti. Radi bi vam pokazali, kdo smo tudi izven solskih klopi in s cim vse se ukvarjamo.
+*Jonas:* Pa si oglejmo, kaj vse pocnemo.
 
 1. *Video*
 
@@ -63,24 +70,28 @@ Napovedovanje parov, naslednji napovedan po prihodu prejsnjega.
 
 *** Sara in Neva
 
-*Sara:* Poleg tega, da nekatere punce v popoldanskem casu plesemo Hip Hop - 
-*Neva:* - smo se tudi v soli ucili ples... eden od teh je bil angleski valcek.
-*Sara:* Po plesu pa vam bosta Tristan in Ula zaigrala - stirirocno na klavir - Romanca
+*Sara:* Neva, si videla kaksne talente vse skriva generacija 2010?
+*Neva:* Lahko bi rekli, da so sport, glasba in ples tiste aktivnosti, v katerih smo dobri in res uzivamo. Fantje so eno uro pred zacetkom pouka prisli v solo, da bi lahko igrali nogomet.
+*Sara:* No, punce se jim nismo pridruzile. Je pa PLES tista aktivnost, ki je letos ob zakljucku leta zdruzila vse. Pri urah sporta smo plesali vsi.
+*Neva:* Res je, naucili smo se razlicne plese, eden od teh je bil angleski valcek, ki vam ga bomo predstavili.
+*Sara:* Po plesu pa sledita glasbena talenta, Tristan in Ula, ki bosta stirirocno zaigrala na klavir, in sicer skladbo z naslovom Romanca.
 
-1. Pari se razporedijo za ples **Ozadje**
-2. *Valcek*
-3. Pari se priklonijo in odidejo na svoja mesta **Ozadje**
+1. Pari se razporedijo za ples *Ozadje - Overture*
+2. *Valcek - Firestone*
+3. Pari se priklonijo in odidejo na svoja mesta *Ozadje - Phantom*
 4. *Tristan in Ula klavir*
 
 * 2. Akt: Covid
-+ Nastopajoci: Lena, Masa, Vita, Ula, Brina, Jonas, Tristan
++ Nastopajoci: Lena, Masa, Vita, Ula, Brina, Jonas, Tristan, Anja
 + 2x Mikrofon - brezzicni
-+ TODO: 2x mizi - veliki, 4x stoli, covid testi, maske
++ 2x mizi - veliki, 4x stoli, covid testi, maske
 
 *** Masa in Lena
-*Masa:* Ker smo tako nesrecna generacija, se nam je zgodila tudi grozna epidemija covida-19. Za nas je bila to prava nocna mora, saj se nismo mogli druziti.
-*Lena:* Bila pa je tudi odlicna priloznost za lenarjenje, igranje igric, gledanje filmov in uporabe elektronskih naprav med poukom.l
-*Masa:* Na oder vabiva Vito, Ulo, Brino, Jonasa, Tristana in Anjo, ki vam bodo uprizorili testiranje v Soli
+
+*Masa:* Kot da bi vedeli, da bo nas zakljucek na petek 13., je grozna epidemija covida 19 prekinila nase druzenje, ples, glasbo in sport. Za nas je bila to prava nocna mora, saj se nismo mogli druziti.
+*Lena:* Nocna mora je bila tudi za ucitelje in starse, saj smo to priloznost izkoristili za lenarjenje, igranje igric, gledanje filmov in uporabljanje elektronskih naprav med poukom.
+*Masa:* Ko smo se na sreco enih in nesreco drugih koncno spet vrnili nazaj v solo... nas je cakalo testiranje.
+*Lena:* Pa ne testiranje znanja, temvec testiranje na dve crtici. Na oder vabiva VITO, ULO, BRINO, JONASA, TRISTANA in ANJO, ki nam bodo uprizorili testiranje v soli.
 
 ** Skec: Covid-19
 1. *Prinesejo se pripomocki*
@@ -90,16 +101,19 @@ Napovedovanje parov, naslednji napovedan po prihodu prejsnjega.
 * 3. Akt: Kombiniran ples
 + Nastopajoci: Masa in Lena
 + 2x Mikrofon - brezzicni
-+ Glasba za ples: Firestone
++ Glasba za ples
 
 ** Ples: Fokstrot in sving
 *** Masa in Lena 
-*Lena:* Ker smo velikokrat neodlocni, smo se odlocili, da zdruzimo dva plesa - 
-*Masa:* - in sicer fokstrot in sving.
 
-1. Pari se razporedijo v vrsto za ples. **Odzadje**
-2. *Ples*
-3. Pari se priklonijo in odidejo na svoja mesta. **Odzadje**
+*Lena:* Solanje od doma, nato pa prihod v solo, testiranje, maske, drzanje medosebne razdalje, umivanje rok, karantene, druzenje po tocno dolocenem razporedu... ni bilo prijetno.
+*Masa:* Je bilo pa toliko bolje, ko smo se brez omejitev vrnili v solo. V sestem razredu smo odsli v letno solo v naravi, v 7. razredu na sportni CSOD Radenci, v 8. razredu pa na smucanje na Roglo. Sport je res nasa starst.
+*Lena:* Ponovno vam bomo zaplesali, ker pa smo velikokrat neodlocni, smo se odlocili, da zdruzimo dva plesa...
+*Masa:* ...in sicer fokstrot in sving
+
+1. Pari se razporedijo v vrsto za ples. *Ozadje - Phantom*
+2. *Ples - Sway*
+3. Pari se priklonijo in odidejo na svoja mesta. *Ozadje - Overture*
 
 * 4. Akt: Razrednicarke
 + 2x Mikrofoni - brezzicni
@@ -108,65 +122,120 @@ Napovedovanje parov, naslednji napovedan po prihodu prejsnjega.
 ** Tocka razrednicark
 
 *** Brina in Vita
-*Brina:* Sedaj pa na oder vabimo nasi razrednicarki, ki sta nas spremljali in podpirali od nasega sestega razreda.
-*Vita:* Prosim en velik aplavz za Tjaso Prudic in Maruso Nared
+*Brina:* Sedaj pa na oder vabimo nasi razrednicarki, ki sta nas spremljali in podpirali od nasega sestega razreda, pa vse do danes.
+*Vita:* Prosim en velik aplavz za Tjaso Prudic in Maruso Nared.
 
-*TODO: Tocka razrednicark*
+1. *Prihod razrednicark na oder*
+2. *Nastop - Za poredne otroke*
+3. *Po nastopu darila za ucence - La Valse D'Amelie, La Redecouverte (Rezerva La Valse Des Monstres)*
 
 * 5. Akt: Travma
-+ TODO: Napoved? Pripomocki?
++ Pripomocki: 5 stolov v polkrogu, podajajo mikrofona*
 + Nastopajoci: Erika, Mila, Zana, David, Gaber
-+ TODO: Mikrofoni
++ 1-2x Mikrofoni - brezzicni
 
 *** Erika, Mila, Zana, David, Gaber
-*Erika:* Danes smo se zbrali, da skupaj premagamo nase travme. Bi kdo rad kaj delil? Naj vas ne bo strah.
+*Erika:* Danes smo se zbrali, da skupaj delimo nase osnovnosolske travme. Bi kdo rad kaj delil? Naj vas ne bo strah.
 *Mila:* Moja najhujsa travma je zagotovo sportni karton.
-*Zana:* O ja, a se spomnis, ko smo morale punce dvakrat teci, ker ucitelj ni meril casa.
-*Mila:* Jaaa, tisto je bilo grozno!
+*Zana:* O ja, a se spomnis, ko smo morale punce dvakrat tec na 600m, ker ucitelj stopal.
+*Mila:* Jaaa, tisto je bilo grozno! Se posebej, ker so bili v drugo slabsi rezultati.
 *Erika:* Moja najhujsa travna je zdravniski pregled.
 *David:* Ja, meni je enkrat zdravnik rekel, da se drzim kot skuhana hrenovka.
 *Zana:* Moja najhujsa travma je potencialna energija pri fiziki.
-*Gaber:* Ne pozabi na kineticno!
-*David:* Moja najhujsa travma pa so... ure matematike.
+*Gaber:* Ne pozabi na kineticno! Pa veste kaj? Moja najhujsa travma pa je likovna, ker ce pa kaj nisem, pa nisem ustvarjalen clovek.
+*David:* Moja najhujsa travma pa so... ure matematike, na katerih smo imeli vsak dan preverjanje znanja.
 
 * 6. Akt: Ansambelska igra in Anja
 + Nastopajoci: Vita, Ansambel, Anja
 + 1x mikrofon - dinamicni
 + 2x mikrofon - kondenzatorski
 + Glasba: Stand by me
+
 *** Vita
-*Vita:* Ko nas je grabila panika, smo upali na dobro vilo, ki bo resila vse nase tezave. Na sreco so nam stali ob strani nasi starsi in ucitlji ter nam pomagali prebroditi kriticna obdobja. (Na oder vabim clane ansambelske igre, z Dobro vilo, nato pa se Anjo Debevec s solo tocko Stand by me.)
+
+*Vita:* Travme vsepovsod, naredili smo si jih se tam, kjer nam ne bi bilo treba. Ko nas je grabila panika, smo upali na dobro vilo, ki bo resila vse nase tezave. Na sreco so nam stali ob strani nase starsi in ucitelji ter nam pomagali prebroditi kriticna obdobja. Zato na oder vabimo clane ansambelske igre, da nam predstavijo naso Dobro vilo. Poten opa, dragi starsi, prisluhnite se Anji in pesmi Stand by me.
 
 ** Ansambelska igra in Anja
-TODO: Premikanje instrumentov?
 1. *Ansambelska igra - Dobra vila*
 2. *Anja Debevec - Stand by me*
 
 * 7. Akt: Korencek in podelitev
-+ Nastopajoci: Brina, Korencek, Tjasa, Marusa
-+ 1x Mikrofon - Dinamicni
-+ TODO: Sopek? Zahvale? Odzadje?
++ Nastopajoci: Brina, Korencek, Tjasa, Marusa, Lana, Zala
++ 2x Mikrofon - brezzicni
 
-Zahvala ravnateljici, starsem, podelitev.
+** Zahvala ravnateljici
 
 *** Brina
-*Brina:* Na oder vabim gospo ravnateljico, magistrico Anito Knez, ki se ji ob tej priloznosti iskreno zahvaljujemo za vse dane priloznosti, trud in podporo v casu nasega solanja.
+*Brina:* Na oder vabim gospo ravnateljico, magistrico Anito Knez, ki se ji ob tej priloznosti iskreno zahvalimo za vse dane priloznosti, trud in podporo v casu nasega solanja.
 
+1. *Pride ravnateljica*
+2. *Vita prinese mikrofon ravnateljici*
+
+*Brina:* Spostovana gospa ravnateljica! Spremljali ste nas celih devet let, nam stali ob strani, podpirali projekte in skrbeli za ugled sole. Vedno ste poskrbelim da smo se na soli imeli lepo, nas tudi kam peljali in vcasih malo okregali, kadar je bilo to potrebno. Iz srca bi se vam radi se posebej zahvalili, da ste z nami izpeljali zmenjavo s Francijo, ki bo vedno imela posebno mesto v nasih srcih. Torej, se enkrat iskrena hvala za vse. Seveda pa nam bodo v spominu ostali vasi ikonicni oranzni lasje in upamo, da se nase poti se kdaj prekrizajo. Hvala vam!
+
+3. *Gaber prinese sopek, mogoc se ga odnese*
 ** Govor ravnateljice in podelitev
-Ravnateljica na oder povabi razrednicarki, da skupaj podelijo spricevala in priznanja
+4. *Ravnateljica na oder povabi razrednicarki, da skupaj podelijo spricevala in priznanja*
+5. *Lovro in Peter pripeljeta mizo s spricevali*
+6. *Podelitev*
 
 ** Zahvala starsem
-*** TODO Lana in Zala
+*** Lana in Zala
 
-1. *Ucenci nesejo roze starsem.* **Odzadje**
+*Zala:* Dragi starsi, ko danes stojimo tukaj, na koncu osnovnosolske poti, bi se vam radi iskreno zahvalili v imenu vseh nas devetosolcev. Hvala vam, da ste bili z nami vseh devet let, vcasih kot ucitelji, vcasih kot tisti, ki ste nas potolazili, pogosto pa tudi kot kuharji, motivatorji in nasi najvecji navijaci. Brez vas bi bila marsikatera stvar tezja, mogoce celo nemogoca.
+*Lana:* Zavedamo pa se, da ni bilo vedno lahko z nami, z domacimi nadlogami, s prepirom okoli ocen ali zjutraj, ko se nam ni dalo vstati, se posebej, ko smo bili majhni. A vseeno ste bili tam z nami potrpezljivi, vztrajni in predvsem vedno na nasi strani.
+*Zala:* Zdaj, ko stopamo na novo pot, se zavedamo, da smo prav zaradi vas tudi danes tukaj malo bolj odrasli, malo bolj pogumni in veliko bolj hvalezni.
+*Lana:* Zato se enkrat iskrena hvala za vso podporo, razumevanje, ljubezen in da ste nas z veseljem peljali na informativne dneve in nam pomagali pri izbiri srednjih sol, saj brez vas ne bi bili to, kar smo danes. Radi vas imamo!
 
-* TODO 8. Akt: Zahvala in cigumiji
-+ Nastopajoci: Zala, Bine, Tim, Rok, Neva
+*** Marusa in Tjasa
+
+*Marusa:* Dragi starsi, mladost je norost, cez potok skace, kjer je most.
+*Tjasa:* Biti mlad je najpomembnejsa in radostna izkusnja. Vecina izmed nas se radi spominjamo mladostniskih dni, brezskrbnosti, vragolij, zamolcanih neumnosti... In pomembno je, da to dozivimo in pomembno je, da imajo mladi ob sebi pomembne odrasle, VAS, dragi starsi, ki z zgledom kazete, kako preskociti potok tako, da ohranis sebe in spostujes ostale.
+*Marusa:* Hvala vam, da ste nama zaupali, da ste se odzvali na najino zeljo po skupnem sodelovanju, vodenju in usmerjanju vasih otrok, nasih ucencev ter naju podprli, ko sva potrebovali vaso podporo za lazje delo. Zeliva, da boste s ponosom spremljali vase hcerke in sinove, da jih boste vedno sprejeli odprtih rok in nasmejanih obrazov. Saj veste, kaj je prav in kaj ne, bodo pa morali spoznati sami.
+
+1. *Ucenci nesejo roze starsem.* **Ozadje**
+
+* 8. Akt: Zahvala in cigumiji
++ Nastopajoci: Zala, Bine, Tim, Rok, Neva, Lara, Analea, Sara, Erika
 + 2x Mikrofon - dinamicni
++ Pripomocki: 6 stolov, 2x3 grid (Peter, Lovro, Anej)
 
-** TODO Skec - Cigumiji
+** Skec - Cigumiji
+1. *Vseh 6 nastopajocih pride in se usedejo. Najprej Rok in Analea, nato Tim in Bine ter Neva in Lara, zadnja stoji Zala in pocaka.*
 
-** Zahvala nam in uciteljem
+*Tim:* A bo kdo cigumi?
+
+2. *Vsi ucenci se stegujejo proti njemi un sprosijo za cigumi.*
+
+*Analea:* Pazi, uciteljica gre.
+
+3. *Pride Zala*
+
+*Zala:* Dober dan ucenci. Lahko se usedete. Ker smo ravno pred ocenjevanjem, bomo danes utrjevali snov.
+
+4. *Pogleda proti Nevi*
+
+*Zala:* Neva, mas ti slucajno cigumi v ustih?
+*Neva:* Ne, bombon za grlo mam.
+*Zala:* Pa ti Nik?
+*Nik:* Ne, nimam.
+*Zala:* Pa ostali? Odnesite, prosim, cigumije ven.
+
+5. *Odnesejo cigumije, grejo po vedra z rozicami. Peter, Lovro, Anej odnesejo stole.*
+
+** Zahvala uciteljem
+
+*** Sara in Erika
+
+*Sara:* Dragi ucitelji, razrednicarke od 1. do 9. razreda in vsi ostali zaposleni na soli, HVALA ker ste za nas skrbeli 9 let in bili z nami izjemno potrpezljivi.
+*Erika:* Hvala vsem, ki ste poskrbeli, da je bila sola, v katero smo prihajali, cista in urejena, organizirana, nasi nenehno lacni zelodcki pa vedno polni.
+*Sara:* Hvala vam, ucitelji, da ste nas vodili in usmerjali, ponudili nesteto priloznosti za pridobivanje znanja, nam pomagali resevati konflikte in nam pomagali takrat, ko smo to najbolj potrebovali.
+*Erika:* Zavedamo se, da nismo bili vedno sodelovalni, da smo se vcasih izmikali dogovorom, bili nekajkrat preglasni, tudi nemotivirani za delo. Vemo, da smo bili trd oreh.
+*Sara:* Zato smo vam se posebej hvalezni, za ves trud, ki ste ga vlozili v nas, da se danes lahko s ponosom poslavljamo drug od drugega.
+*Erika:* In za konec vam izrekamo se en velik...
+*Obe:* ...HVALA!
+
+1. *Rozceeeeeeeee!*
 
 * 9. Akt: Karaoke
 + Nastopajoci: Sara, Neva, Vita, Masa
@@ -174,10 +243,55 @@ Ravnateljica na oder povabi razrednicarki, da skupaj podelijo spricevala in priz
 + 2x Mikrofon - dinamicni
 + Glasba - Ne bodi kot drugi
 
+** Petje
+
 *** Sara in Neva
 *Sara:* Kot smo ze dokazali, imamo v razredu veliko nadarjenih ljudi, med njimi sta tudi Vita in Masa.
 *Neva:* S pesmijo nam bosta povedali, da nam ni potrebno biti kot drugi, ampak da je najpomembneje, da smo to kar smo.
-*Sara:* Prisluhnimo, kako se nam bosta predstavili s pesmijo - 
-*Neva:* - Ne bodi kot drugi
+*Sara:* Prisluhnimo, kako se nam bosta predstavili s pesmijo... 
+*Neva:* ...Ne bodi kot drugi
 
-** Petje
+1. *Masa in Vita*
+
+* 10. Akt: Skupinski ples
++ Nastopajoci: Nik V., Gaber
++ 2x Mikrofon - brezzicni
++ Glasba za skupinski ples
+
+** Ples v krogu
+
+*** Gaber in Nik V.
+*Gaber:* Tako... Zdaj pa prihaja trenutek, ki smo ga vsi cakali.
+*Nik:* To je ples, za katerega smo se trudili, vadili, spotikali in smejali.
+*Gaber:* Tretji ples vecera je prav poseben - ker smo ga nasli mi, devetarji.
+*Nik:* To bo nas trenutek, da pokazemo, da znamo vec kot samo dvigovat roko pri geografiji.
+*Gaber:* In ce nam slucajno kak korak spodleti - nic hudega. Vazno je, da plesemo s srcem... in nasmehom!
+
+1. *Ples*
+2. *Ucenci ostanejo v krogih, Gaber in Nik V. izstopita.*
+
+* 11. Akt: zakljucek
+
+** Zahvale
+
+*** Gaber in Nik
+
+*Nik:* Dragi starsi, ucitelji, prijatelji.
+*Gaber:* Vsaka dobra stvar se prej ali slej konca. In tudi danes smo prisli do konca - do konca osnovne sole, do konca enega poglavja nasih zivljenj.
+*Nik:* Pa ceprav smo si vcasih zeleli, da bi se kak dan koncal cim prej - zdaj bi si zeleli, da bi nekatere trenutke lahko zavrteli se enkrat.
+*Gaber:* Devet let smo hodili po istih hodnikih, sedeli v istih klopeh, se jezili nad istimi testi in se veselili istih odmikov.
+*Nik:* Skupaj smo rastli. Skupaj se ucili. Skupaj znoreli. No, eni bolj, eni manj - ampak vsi po svoje.
+*Gaber:* Zato danes ne zakljucujemo samo solskega leta - zakljucujemo obdobje, ki nas je zaznamovalo.
+*Nik:* In ob tej priloznosti bi se radi zahvalili vsem uciteljem - ker ste imeli potrpljenje, vsem starsem - ker ste verjeli v nas, tudi ko mi nismo in vsem sosolcem - ker brez vas ne bi bilo teh nepozabnih let.
+*Gaber:* Hvala tudi vsem, ki ste nam pomagali pripraviti nase zadnje dejanje. Hvala uciteljici Petri, ki nam je pomagala pripraviti danasnjo sceno, hvala uciteljici Tanji za pevske vaje. Iskrena hvala Ljubu Vukelicu, ki je nase zadnje dejanje fotografiral in s tem poskrbel, da ne bo slo v pozabo. Velik hvala tudi bivsemu ucencu nase sole, Urbanu Katernu, ki je bil nas stage manager in je poskrbel, da je vse teklo gladko. HVALA!
+*Nik:* Pred nami je novo poglavje - srednja sola, novi izzivi, novi obrazi. A kamorkoli nas bo pot zanesla - delcek nas bo vedno ostal tu.
+*Gaber:* Hvala vsem, ker ste bili del nase zgodbe. Valeta se koncuje - a spomini ostajajo.
+
+** Skupno petje
++ Nastopajoci: Ucenci, Marusa, Tjasa, Lucija
++ 2x mikrofon - kondenzatorski
+
+1. *Vsi na sredino odra*
+2. *Pojejo*
+3. *Se priklonijo, pomahajo in odidejo*
+4. *Zakljucek*
