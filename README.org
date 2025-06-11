@@ -16,6 +16,7 @@
 - [[#4-akt-razrednicarke][4. Akt: Razrednicarke]]
   - [[#tocka-razrednicark][Tocka razrednicark]]
 - [[#5-akt-travma][5. Akt: Travma]]
+  - [[#skec][Skec]]
 - [[#6-akt-ansambelska-igra-in-anja][6. Akt: Ansambelska igra in Anja]]
   - [[#ansambelska-igra-in-anja][Ansambelska igra in Anja]]
 - [[#7-akt-korencek-in-podelitev][7. Akt: Korencek in podelitev]]
@@ -38,22 +39,18 @@
 + 2x Mikrofon - brezzicni
 
 ** Prihod na oder
-+ Glasba: Bethownova 5. simfonija
-Napovedovanje parov, naslednji napovedan po prihodu prejsnjega.
+*Napovedovanje parov, naslednji napovedan po prihodu prejsnjega.*
 
 *** Tjasa in Marusa
 
 *Tjasa in Marusa:* Dobrodosli na valeti generacije 2010, naj vam predstaviva letosnje devetosolke in devetosolce.
-*Napovedna glasba - 5. simfonija*
+1. *Napovedna glasba - 5. simfonija*
 
 * 1. Akt: Uvod
 - Nastopajoci: Ela, Jonas, Sara, Neva
 - 2x Mikrofon - brezzicni
 - 1x Mikrofon - kondenzatorski: klavir
 - Zatemnitev
-- Video - Prosti cas
-- Glasba za valcek
-- Glasba v ozadju
 
 *** Ela in Jonas
 
@@ -101,7 +98,6 @@ Napovedovanje parov, naslednji napovedan po prihodu prejsnjega.
 * 3. Akt: Kombiniran ples
 + Nastopajoci: Masa in Lena
 + 2x Mikrofon - brezzicni
-+ Glasba za ples
 
 ** Ples: Fokstrot in sving
 *** Masa in Lena 
@@ -111,9 +107,9 @@ Napovedovanje parov, naslednji napovedan po prihodu prejsnjega.
 - *Lena:* Ponovno vam bomo zaplesali, ker pa smo velikokrat neodlocni, smo se odlocili, da zdruzimo dva plesa...
 - *Masa:* ...in sicer fokstrot in sving
 
-1. Pari se razporedijo v vrsto za ples. *Ozadje - Phantom*
+1. Pari se razporedijo v vrsto za ples. *Ozadje - Overture*
 2. *Ples - Sway(0.85)*
-3. Pari se priklonijo in odidejo na svoja mesta. *Ozadje - Overture*
+3. Pari se priklonijo in odidejo na svoja mesta. *Ozadje - Phantom*
 
 * 4. Akt: Razrednicarke
 + 2x Mikrofoni - brezzicni
@@ -134,6 +130,9 @@ Napovedovanje parov, naslednji napovedan po prihodu prejsnjega.
 + Nastopajoci: Erika, Mila, Zana, David, Gaber
 + 1-2x Mikrofoni - brezzicni
 
+** Skec
+1. *Postavitev stolov - Overture*
+
 *** Erika, Mila, Zana, David, Gaber
 - *Erika:* Danes smo se zbrali, da skupaj delimo nase osnovnosolske travme. Bi kdo rad kaj delil? Naj vas ne bo strah.
 - *Mila:* Moja najhujsa travma je zagotovo sportni karton.
@@ -145,6 +144,7 @@ Napovedovanje parov, naslednji napovedan po prihodu prejsnjega.
 - *Gaber:* Ne pozabi na kineticno! Pa veste kaj? Moja najhujsa travma pa je likovna, ker ce pa kaj nisem, pa nisem ustvarjalen clovek.
 - *David:* Moja najhujsa travma pa so... ure matematike, na katerih smo imeli vsak dan preverjanje znanja.
 
+2. *Pospravljanje stolov - Phantom*
 * 6. Akt: Ansambelska igra in Anja
 + Nastopajoci: Vita, Ansambel, Anja
 + 1x mikrofon - dinamicni
@@ -193,7 +193,7 @@ Napovedovanje parov, naslednji napovedan po prihodu prejsnjega.
 - *Tjasa:* Biti mlad je najpomembnejsa in radostna izkusnja. Vecina izmed nas se radi spominjamo mladostniskih dni, brezskrbnosti, vragolij, zamolcanih neumnosti... In pomembno je, da to dozivimo in pomembno je, da imajo mladi ob sebi pomembne odrasle, VAS, dragi starsi, ki z zgledom kazete, kako preskociti potok tako, da ohranis sebe in spostujes ostale.
 - *Marusa:* Hvala vam, da ste nama zaupali, da ste se odzvali na najino zeljo po skupnem sodelovanju, vodenju in usmerjanju vasih otrok, nasih ucencev ter naju podprli, ko sva potrebovali vaso podporo za lazje delo. Zeliva, da boste s ponosom spremljali vase hcerke in sinove, da jih boste vedno sprejeli odprtih rok in nasmejanih obrazov. Saj veste, kaj je prav in kaj ne, bodo pa morali spoznati sami.
 
-1. *Ucenci nesejo roze starsem.* **Ozadje**
+1. *Ucenci nesejo roze starsem. Ozadje - Harry Styles*
 
 * 8. Akt: Zahvala in cigumiji
 + Nastopajoci: Zala, Bine, Tim, Rok, Neva, Lara, Analea, Sara, Erika
@@ -201,7 +201,8 @@ Napovedovanje parov, naslednji napovedan po prihodu prejsnjega.
 + Pripomocki: 6 stolov, 2x3 grid (Peter, Lovro, Anej)
 
 ** Skec - Cigumiji
-1. *Vseh 6 nastopajocih pride in se usedejo. Najprej Rok in Analea, nato Tim in Bine ter Neva in Lara, zadnja stoji Zala in pocaka.*
+1. *Postavljanje - Phantom*
+2. *Vseh 6 nastopajocih pride in se usedejo. Najprej Rok in Analea, nato Tim in Bine ter Neva in Lara, zadnja stoji Zala in pocaka.*
 
 - *Tim:* A bo kdo cigumi?
 
@@ -221,7 +222,7 @@ i *Analea:* Pazi, uciteljica gre.
 - *Nik:* Ne, nimam.
 - *Zala:* Pa ostali? Odnesite, prosim, cigumije ven.
 
-5. *Odnesejo cigumije, grejo po vedra z rozicami. Peter, Lovro, Anej odnesejo stole.*
+5. *Odnesejo cigumije, grejo po vedra z rozicami. Peter, Lovro, Anej odnesejo stole. - Overture*
 
 ** Zahvala uciteljem
 
@@ -235,7 +236,7 @@ i *Analea:* Pazi, uciteljica gre.
 - *Erika:* In za konec vam izrekamo se en velik...
 - *Obe:* ...HVALA!
 
-1. *Rozceeeeeeeee!*
+1. *Rozceeeeeeeee! - Rihanna*
 
 * 9. Akt: Karaoke
 + Nastopajoci: Sara, Neva, Vita, Masa
@@ -267,8 +268,9 @@ i *Analea:* Pazi, uciteljica gre.
 - *Nik:* To bo nas trenutek, da pokazemo, da znamo vec kot samo dvigovat roko pri geografiji.
 - *Gaber:* In ce nam slucajno kak korak spodleti - nic hudega. Vazno je, da plesemo s srcem... in nasmehom!
 
-1. *Ples - Belgijski ples*
-2. *Ucenci ostanejo v krogih, Gaber in Nik V. izstopita.*
+1. *Ozadje - Overture*
+2. *Ples - Belgijski ples*
+3. *Ucenci ostanejo v krogih, Gaber in Nik V. izstopita.*
 
 * 11. Akt: zakljucek
 
@@ -292,6 +294,6 @@ i *Analea:* Pazi, uciteljica gre.
 + 2x mikrofon - kondenzatorski
 
 1. *Vsi na sredino odra*
-2. *Pojejo*
+2. *Pojejo - Cuki*
 3. *Se priklonijo, pomahajo in odidejo*
 4. *Zakljucek - Yellow*
